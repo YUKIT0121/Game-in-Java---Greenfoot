@@ -4,8 +4,6 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * Rectangle that can move left (left arrow), right (right arrow),
  *   and/or drop disks (space bar). 
  * 
- * @author Yuki Tsukamoto
- * @version 12/03/2019
  */
 public class DiskDropper extends Actor
 {

@@ -9,8 +9,6 @@ import java.util.*;
  * the top of the world , hit pins and bounce off of them, and
  * are "absorbed" by scoring units. 
  * 
- * @author Yuki Tsukamoto
- * @version 12/03/2019
  */
 public class MyWorld extends World
 { 

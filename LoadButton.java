@@ -2,8 +2,6 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * When the LoadButton clicked, this sets up a FileDialog box for the user to select an input file. 
  * 
- * @author Yuki Tsukamoto
- * @version 12/03/2019
  */
 public class LoadButton extends ActionButton
 {

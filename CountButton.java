@@ -3,8 +3,6 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * When the CountButton is clicked, it sorts the scoreboards by counts
  * 
- * @author Yuki Tsukamoto 
- * @version 12/03/2019
  */
 public class CountButton extends ActionButton
 {

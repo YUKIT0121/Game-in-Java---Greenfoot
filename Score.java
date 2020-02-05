@@ -6,8 +6,6 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * You probably do not want to modify this class, although you
  * are welcome to do so.
  * 
- * @author Stephen Blythe
- * @version 10/2019
  */
 public class Score extends Actor
 {

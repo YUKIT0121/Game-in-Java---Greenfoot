@@ -22,11 +22,6 @@ import java.awt.Graphics2D;  // helps with rendering size of button
  *         Remember, "this" button is in a world and you likely
  *         added methods to that world subclass (MyWorld). 
  *  
- *  Although you are welcome to modify this code, modifying this
- *     code is HIGHLY INADVISABLE. 
- * 
- * @author Stephen Blythe
- * @version 10/2019
  */
 public abstract class ActionButton extends Actor
 {

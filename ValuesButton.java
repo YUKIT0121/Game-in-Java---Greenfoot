@@ -3,8 +3,6 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * When the ValuesButton is clicked, it sorts the scoreboards by values
  * 
- * @author Yuki Tsukamoto
- * @version 12/03/2019
  */
 public class ValuesButton extends ActionButton
 {

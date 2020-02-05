@@ -6,8 +6,6 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * You probably do not want to modify this class, although you
  * are welcome to do so. 
  * 
- * @author Stephen Blythe
- * @version 11/2019
  */
 public class Pin extends Actor
 {

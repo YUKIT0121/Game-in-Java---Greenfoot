@@ -3,8 +3,6 @@ import java.util.List;
 /**
  * The Disk that drops down the screen.
  * 
- * @author Yuki Tsukamoto
- * @version 12/203/2019
  */
 public class Disk extends Actor
 {

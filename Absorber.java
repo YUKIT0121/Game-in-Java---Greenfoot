@@ -4,11 +4,6 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * The "scoring" absorber for project 3. This class just provides
  * the abiity to construct and utilize an Absorber. 
  * 
- * You probably do not want to modify this class, although you
- * are welcome to do so. 
- * 
- * @author Stephen Blythe
- * @version 11/2019
  */
 public class Absorber extends Actor
 {
